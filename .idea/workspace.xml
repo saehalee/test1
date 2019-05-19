@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8345e7d1-7d18-41b4-aeba-2dccffcd068d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write.html" beforeDir="false" afterPath="$PROJECT_DIR$/write.html" afterDir="false" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mytest1$server.coverage" NAME="server Coverage Results" MODIFIED="1558288539861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -19,21 +26,50 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="1" />
+=======
+  <component name="FUSProjectUsageTrigger">
+    <session id="2021854970">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="md" value="1" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="1" />
+=======
+          <entry key="HTML" value="4" />
+          <entry key="Markdown" value="1" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="134" />
+=======
+          <entry key="md" value="397" />
+          <entry key="txt" value="35" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="134" />
+=======
+          <entry key="Markdown" value="397" />
+          <entry key="PLAIN_TEXT" value="35" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
         </counts>
       </usages-collector>
     </session>
@@ -52,13 +88,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/write.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="135">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+            <state>
+              <caret column="66" selection-start-column="66" selection-end-column="66" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -73,6 +115,13 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="210">
                 <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+=======
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
               </first_editor>
               <second_editor />
             </state>
@@ -85,7 +134,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+<<<<<<< HEAD
         <option value="Python Script" />
+=======
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
       </list>
     </option>
   </component>
@@ -97,9 +149,14 @@
       <list>
         <option value="$PROJECT_DIR$/board.html" />
         <option value="$PROJECT_DIR$/topic file/write.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/write.html" />
         <option value="$PROJECT_DIR$/server.py" />
+=======
+        <option value="$PROJECT_DIR$/write.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
       </list>
     </option>
   </component>
@@ -109,6 +166,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="730" />
+    <option name="width" value="710" />
+    <option name="height" value="900" />
+  </component>
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,6 +203,16 @@
       </pane>
     </panes>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -150,6 +225,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mytest1" />
@@ -179,6 +255,8 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -204,6 +282,7 @@
       <option name="project" value="LOCAL" />
       <updated>1558273119469</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="write.html 재생성">
       <created>1558287995581</created>
       <option name="number" value="00003" />
@@ -211,6 +290,9 @@
       <option name="project" value="LOCAL" />
       <updated>1558287995581</updated>
     </task>
+=======
+    <option name="localTasksCounter" value="3" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -228,7 +310,11 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,6 +326,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -255,6 +342,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="write.html 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="write.html 생성" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/topic file/write.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" selection-start-column="66" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="27" lean-forward="true" selection-start-line="105" selection-start-column="27" selection-end-line="105" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+>>>>>>> d6d2a63ded19dbb633dbdb1049622ed71c635cf1
         </state>
       </provider>
     </entry>
